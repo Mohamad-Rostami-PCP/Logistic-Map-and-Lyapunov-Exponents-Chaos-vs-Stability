@@ -39,9 +39,8 @@ This project explores the **logistic map** and quantifies chaos by calculating *
 
 * Lyapunov exponent:
 
-  $$
-  \lambda = \lim_{n \to \infty} \frac{1}{n} \sum_{i=1}^n \ln \left|\frac{dx_{i+1}}{dx_i}\right|
-  $$
+
+  $$\lambda = \lim_{n \to \infty} \frac{1}{n} \sum_{i=1}^n \ln \left|\frac{dx_{i+1}}{dx_i}\right|$$
 
 * \$\lambda > 0\$ → chaos (exponential divergence).
 
