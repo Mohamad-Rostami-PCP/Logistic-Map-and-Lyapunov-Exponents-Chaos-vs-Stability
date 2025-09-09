@@ -34,7 +34,7 @@ This project explores the **logistic map** and quantifies chaos by calculating *
 * Logistic map:
 
 
-   $$ x_{n+1} = r x_n (1 - x_n)  $$
+   $$x_{n+1} = r x_n (1 - x_n)$$
 
 
 * Lyapunov exponent:
